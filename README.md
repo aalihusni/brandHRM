@@ -1,2 +1,2 @@
 # brandHRM
-And opensource HRM project using Laravel 5
+An opensource HRM project using Laravel 5
